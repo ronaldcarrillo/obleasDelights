@@ -1,0 +1,11 @@
+.f1{
+    width: 500px;
+    border-radius: 18px;
+}
+.f2{
+    width: 250px;
+    border-radius: 18px;
+}
+img{
+    object-fit: cover;
+}
